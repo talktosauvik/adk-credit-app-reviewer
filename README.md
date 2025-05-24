@@ -70,10 +70,8 @@ This automated process will ensure rapid and consistent initial filtering, effic
     *   Open the `.env` file and fill in your actual `GOOGLE_API_KEY` for the Gemini model.
 
 ## Running the Agent Locally
+  *   run adk web in side your root folder
 
-Ensure your environment variables are set and dependencies are installed. Then run:
-```bash
-python agent.py
 
 ## Potential Enhancements & Future Scope
 
