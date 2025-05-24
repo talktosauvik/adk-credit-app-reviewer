@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment (if created *inside* this project root)
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Environment variables - IMPORTANT
+.env
+
+# IDE specific (optional, but good practice)
+.vscode/
+# .idea/
+
+# Other OS generated files
+.DS_Store
